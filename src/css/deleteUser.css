@@ -1,0 +1,33 @@
+.container-delete {
+  transition: all 0.3s ease-out;
+}
+
+.container-delete:hover {
+  box-shadow: 0.15rem 0.15rem 0.5em 0 #000;
+  transform: translateY(-0.25rem);
+}
+
+.btn-container {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-update {
+  background: #f2cd5c !important;
+  padding: 5px !important;
+}
+
+.btn-update:hover {
+  background: #f0c441 !important;
+}
+
+.btn-delete {
+  background: #f16767 !important;
+  padding: 5px !important;
+}
+
+.btn-delete:hover {
+  background: #f35353 !important;
+}

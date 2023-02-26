@@ -1,0 +1,9 @@
+.container-update {
+  transition: all 0.3s ease-out;
+  gap: 4px;
+}
+
+.container-update:hover {
+  box-shadow: 0.15rem 0.15rem 0.5em 0 #000;
+  transform: translateY(-0.25rem);
+}

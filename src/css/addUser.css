@@ -1,0 +1,27 @@
+.container-add {
+  padding: 5px;
+  gap: 5px;
+}
+
+.form-control {
+  border: none !important;
+  outline: none !important;
+  background: #f2f2f2 !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
+
+.btn-primary {
+  border: none !important;
+  outline: none !important;
+}
+
+.btn-add {
+  background: #4caf50 !important;
+}
+
+.btn-add:hover {
+  background: #43a047 !important;
+}
